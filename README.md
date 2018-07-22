@@ -4,6 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install dependencies
 npm install
 
+## Generate package
+npm run-script electron-package
+
 ## Run electronjs with angular
 npm run-script start
 
