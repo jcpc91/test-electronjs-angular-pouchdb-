@@ -1,10 +1,11 @@
 # Prueba1
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
+## Install dependencies
+npm install
+
 ## Run electronjs with angular
 npm run-script start
-
-
 
 ## Development server
 
